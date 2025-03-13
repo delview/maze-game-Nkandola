@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_3",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_3/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -29,10 +29,8 @@
     {"name":"inst_585DDC39","path":"rooms/rm_3/rm_3.yy",},
     {"name":"inst_5A55FC99","path":"rooms/rm_3/rm_3.yy",},
     {"name":"inst_389A34A4","path":"rooms/rm_3/rm_3.yy",},
-    {"name":"inst_71A1EBC5","path":"rooms/rm_3/rm_3.yy",},
-    {"name":"inst_1A1F604C","path":"rooms/rm_3/rm_3.yy",},
   ],
-  "isDnd":false,
+  "isDnd":true,
   "layers":[
     {"$GMREffectLayer":"","%Name":"Effect_5","depth":0,"effectEnabled":true,"effectType":"_filter_underwater","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Effect_5","properties":[
         {"name":"g_Distort1Speed","type":0,"value":"0.01",},
@@ -50,10 +48,7 @@
         {"name":"g_AddCol","type":1,"value":"#FF331900",},
         {"name":"g_DistortTexture","type":2,"value":"_filter_underwater_noise_sprite",},
       ],"resourceType":"GMREffectLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRInstanceLayer":"","%Name":"Instances_3","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_71A1EBC5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_71A1EBC5","objectId":{"name":"obj_jellyfish","path":"objects/obj_jellyfish/obj_jellyfish.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":480.0,},
-        {"$GMRInstance":"v1","%Name":"inst_1A1F604C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1A1F604C","objectId":{"name":"obj_jellyfish","path":"objects/obj_jellyfish/obj_jellyfish.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":320.0,},
-      ],"layers":[],"name":"Instances_3","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"Instances_3","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances_3","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMREffectLayer":"","%Name":"Effect_4","depth":200,"effectEnabled":true,"effectType":"_filter_clouds","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Effect_4","properties":[
         {"name":"g_CloudScale","type":0,"value":"64",},
         {"name":"g_CloudVelocity","type":0,"value":"-10",},

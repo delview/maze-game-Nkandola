@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_2",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_2/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -25,7 +25,7 @@
     {"name":"inst_19BC24E6","path":"rooms/rm_2/rm_2.yy",},
     {"name":"inst_2617B83B","path":"rooms/rm_2/rm_2.yy",},
   ],
-  "isDnd":false,
+  "isDnd":true,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_2617B83B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2617B83B","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.64444447,"scaleY":0.5555556,"x":1024.0,"y":288.0,},

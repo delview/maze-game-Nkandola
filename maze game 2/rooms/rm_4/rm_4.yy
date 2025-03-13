@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_4",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_4/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -50,7 +50,7 @@
     {"name":"inst_15CF4487","path":"rooms/rm_4/rm_4.yy",},
     {"name":"inst_503E30C8","path":"rooms/rm_4/rm_4.yy",},
   ],
-  "isDnd":false,
+  "isDnd":true,
   "layers":[
     {"$GMREffectLayer":"","%Name":"Effect_1","depth":0,"effectEnabled":true,"effectType":"_filter_clouds","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Effect_1","properties":[
         {"name":"g_CloudScale","type":0,"value":"15",},
