@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_line",
+  "%Name":"obj_pilar",
   "eventList":[],
   "managed":true,
-  "name":"obj_line",
+  "name":"obj_pilar",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_line",
-    "path":"sprites/spr_line/spr_line.yy",
+    "name":"spr_pilar",
+    "path":"sprites/spr_pilar/spr_pilar.yy",
   },
   "spriteMaskId":null,
   "visible":true,
